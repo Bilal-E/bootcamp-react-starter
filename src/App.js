@@ -5,11 +5,10 @@ function App() {
   return (
     <div className="App">
      <header>
-     <p>
-       First Edit!! Git action used to deploy react-app using surge!
-     </p>
-     
-      </header>
+        HELLO WORLD 
+          
+        bilal elahi  
+     </header>
     </div>
   );
 }
