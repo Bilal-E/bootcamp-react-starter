@@ -3,14 +3,16 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-     <header>
-        HELLO WORLD 
-          
-        bilal elahi  
-     </header>
-    </div>
-  );
+      <div>
+
+        <h1>HELLO WORLD</h1>
+        <hr/>
+        <h1>Bilal Elahi</h1>
+
+      </div>
+     
+ 
+ );
 }
 
-export default App;
+export default App
