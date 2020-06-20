@@ -1,18 +1,16 @@
 import React from 'react';
 import './App.css';
+import Edit1 from './User_edit1.js'
+
 
 function App() {
   return (
-      <div>
-
-        <h1>HELLO WORLD</h1>
-        <hr/>
-        <h1>Bilal Elahi</h1>
-
-      </div>
+      
+      <div className="App">
      
- 
- );
+         <Edit1 hello = "HELLO WORLD" username= "Bilal Elahi"/>
+        
+      </div> );
 }
 
-export default App
+export default App;
