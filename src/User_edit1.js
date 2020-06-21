@@ -4,15 +4,13 @@ import './App.css';
 function Edit1(props) {
     return (
         
-        <div className="App">
+        <div className="Center">
 
             <h1>{props.hello}</h1>
             <hr/>
             <h2>{props.username}</h2>
 
         </div>
-
-
     );
 }
 

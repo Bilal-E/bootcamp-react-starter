@@ -1,4 +1,4 @@
-.App {
+.Center {
   text-align: center;
 }
 
@@ -35,4 +35,16 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.defaultBackground{
+
+  background-color: grey;
+
+}
+
+.daylight {
+
+  background-color: yellow;
+
 }
